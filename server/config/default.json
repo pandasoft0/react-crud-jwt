@@ -1,0 +1,13 @@
+{
+    "jwtSecret": "secret",
+    "refreshTokenSecret": "some-secret-refresh-token-shit",
+    "githubToken": "<yoursecrectaccesstoken>",
+
+    "name":"Jeffry Collins",
+    "email":"jeffcollins615@gmail.com",
+    "password":"$2a$10$t3SaFtF3XJN5IvjxBTyVzOa4T0HVhC/ZUCCKjy.O9DnUpfZxedZm.",
+
+    "payload" : {
+      "user": "jffrclns"
+    }
+  }
